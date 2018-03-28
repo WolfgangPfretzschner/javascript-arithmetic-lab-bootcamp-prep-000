@@ -17,8 +17,8 @@ function inc (a){
 function dec (a){
   return a--
 }
-function add (a,b){
-  return a + b
+function makeInt (a){
+  return parseInt(b)
 }
 function add (a,b){
   return a + b
