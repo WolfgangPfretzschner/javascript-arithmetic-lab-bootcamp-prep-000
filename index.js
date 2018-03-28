@@ -11,15 +11,15 @@ function multiply (a,b){
 function divide (a,b){
   return a / b
 }
-function inc (a){
-  return a++
+function inc (n){
+  return n++
 }
-function dec (a){
-  return a--
+function dec (n){
+  return n--
 }
-function makeInt (a){
-  return parseInt(b)
+function makeInt (n){
+  return parseInt(n)
 }
-function add (a,b){
-  return a + b
+function preserveDecimal (n){
+  return parseFloat(n)
 }
