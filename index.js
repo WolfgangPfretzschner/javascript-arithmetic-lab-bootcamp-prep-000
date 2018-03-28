@@ -14,8 +14,8 @@ function divide (a,b){
 function inc (a){
   return a++
 }
-function add (a,b){
-  return a + b
+function dec (a){
+  return a--
 }
 function add (a,b){
   return a + b
